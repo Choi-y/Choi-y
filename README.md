@@ -1,8 +1,12 @@
+<div align=center> 
+  
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA8072,100:FF4500&height=250&section=header&text=sos&animation=twinkling&fontColor=ffffff&fontSize=90)
+  
+[![Choi-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-y)](https://github.com/Choi-y/github-readme-stats)
 
-[![Choi-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-y)](https://github.com/Choi-y/github-readme-stats)  
-
+  
+</div>
 <!--
 **Choi-y/Choi-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
