@@ -2,8 +2,15 @@
   
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header) -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FA8072,100:FF4500&height=250&section=header&text=sos&animation=twinkling&fontColor=ffffff&fontSize=90)
-  
+
+## 👩‍💻
+### 
 [![Choi-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-y)](https://github.com/Choi-y/github-readme-stats)
+
+## ✨💃
+### 실버빵테온에서 플레빵테온 되기 챌린지 ~
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=atmolysis)](https://solved.ac/atmolysis)
 
   
 </div>
