@@ -6,7 +6,6 @@
 ## 👩‍💻
 ### 
 [![Choi-y's GitHub stats](https://github-readme-stats.vercel.app/api?username=Choi-y)](https://github.com/Choi-y/github-readme-stats)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChoi-y&count_bg=%23C3E1C0&title_bg=%23FFD2D2&icon=&icon_color=%23E7E7E7&title=%F0%9F%92%AB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## ✨💃
 ### 실버빵테온에서 플레빵테온 되기 챌린지 ~
